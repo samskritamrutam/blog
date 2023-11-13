@@ -1,0 +1,6 @@
+[submodule "sanskritblog/public"]
+	path = sanskritblog/public
+	url = https://github.com/samskritamrutam/samskritamrutam.github.io.git
+[submodule "sanskritblog/themes/kaslaanka"]
+	path = sanskritblog/themes/kaslaanka
+	url = https://github.com/M1cR0xf7/kaslaanka.git
